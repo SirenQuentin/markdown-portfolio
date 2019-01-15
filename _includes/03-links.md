@@ -1,2 +1,6 @@
 ##### [GitHub](http://github.com)
 ##### [GitHub.Lab](https://lab.github.com/)
+##### [/wiki/Emoji](https://github.com/StylishThemes/GitHub-Dark/wiki/Emoji)
+##### [basic-writing-and-formatting-syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax//)
+##### [EMOJI](https://gist.github.com/rxaviers/7360908)
+##### [GitHub.Lab.atom](https://atom.io/)
